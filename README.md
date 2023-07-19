@@ -47,3 +47,10 @@
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+## Gatsby Cloud | We did it
+
+![gatsby_cloud_poster](https://www.gatsbyjs.com/static/0fd27b745c1de708f034eaf97c4416e0/321ea/deployment-workflow.png)
+
+[Click here to see my quickstart website](https://gatsbycloudmaster28986.gatsbyjs.io/)
